@@ -1,1 +1,1 @@
-Fixing ghost speed and playfab soon.
+We know the game is laggy right now. I am fixing it..
